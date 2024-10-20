@@ -1,0 +1,2 @@
+#DataThief C:\Attha\Radboud U\Source code\Attha\paper2_Raoul\Extract_pdf_from_the_paper\Firing probability.jpg Tuesday 20-Mar-2012 10:34:45 AM
+0., 0.0436
