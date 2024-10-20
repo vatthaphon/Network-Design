@@ -16,10 +16,10 @@
 The main goal of this study is to design a network of pulse-coupled delayed E and I LIF neurons with desired periodic spiking.</p>
 
 ## Installation<a name="Installation"/>
-- Matlab 2018.
+Matlab 2018.
 
 ## Usage<a name="Usage"/>
--Run Network_analysis/networkAnalysis.m to create a network with predefined spiking times.
+Run Network_analysis/networkAnalysis.m to create a network with predefined spiking times.
 
 ## File Structure<a name="FileStructure"/>
 ```plaintext
